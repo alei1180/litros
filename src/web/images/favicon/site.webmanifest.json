@@ -4,7 +4,7 @@
   "description": "Library Tracker for OneScript",
   "author": "Alexander Osadchy, Dmitry Ivanov",
   "homepage_url": "https://github.com/alei1180/litros",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "icons": [
     {
       "src": "/images/favicon.ico/web-app-manifest-192x192.png",
