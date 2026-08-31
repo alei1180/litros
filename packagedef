@@ -1,5 +1,5 @@
 ﻿Описание.Имя("litros")
-    .Версия("1.0.0")
+    .Версия("1.1.0")
     .Автор("Alexander Osadchy, Dmitry Ivanov")
     .АдресАвтора("https://github.com/alei1180, https://github.com/Stivo182")
     .АдресРепозитория("https://github.com/alei1180/litros")
